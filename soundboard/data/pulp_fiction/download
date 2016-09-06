@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  <base href="http://movie-sounds.org/download" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="og:image" content="" />
+  
+  <meta name="og:title" content="Sound Clip Download" />
+  <meta name="og:type" content="article" />
+  <meta name="og:url" content="http://movie-sounds.org/download" />
+  <meta name="og:site_name" content="Movie-Sounds.org" />
+  <meta name="fb:admins" content="100356786682747" />
+  <meta name="description" content="Download thousands of free sound bites from movies. Search movie lines, quotes and ringtones in our film audio samples library which contains sounds in wav, mp3 or other formats." />
+  
+  <title>Sound Clip Download</title>
+  <link href="/templates/moviesounds/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="/templates/moviesounds/css/template.css" media="screen" />
+<!--[if IE 6]><link rel="stylesheet" href="/templates/moviesounds/css/template.ie6.css" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="/templates/moviesounds/css/template.ie7.css" type="text/css" media="screen" /><![endif]-->
+<script type="text/javascript">if ('undefined' != typeof jQuery) document._artxJQueryBackup = jQuery;</script>
+<script type="text/javascript" src="/templates/moviesounds/jquery.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script type="text/javascript" src="/templates/moviesounds/script.js"></script>
+<script type="text/javascript">if (document._artxJQueryBackup) jQuery = document._artxJQueryBackup;</script>
+<script type="text/javascript">
+jQuery(function(){
+jQuery('#menu3').slicknav({	
+label: 'MENU',
+duration: 300,
+prependTo:'#smartmenu'
+});
+});
+</script>
+<script src="/audio.min.js"></script>
+<script>
+audiojs.events.ready(function() {
+var as = audiojs.createAll();
+});
+</script>
+</head>
+<body>
+<div id="art-main">
+<div class="cleared reset-box"></div>
+<div class="art-header">
+<div class="art-header-position">
+<div class="art-header-wrapper">
+<div class="cleared reset-box"></div>
+<div class="art-header-inner">
+<div onclick="top.location.href='/'" class="art-headerobject" title="Movie phrases and sayings search engine"></div>
+<div id="header_r"><table border="0" cellpadding="5" cellspacing="1">
+<tbody>
+<tr><td>
+<form action="/search-results" id="cse-search-box">
+<div>
+<input name="cx" type="hidden" value="partner-pub-5453614192961613:9981018200" /> <input name="cof" type="hidden" value="FORID:10" /> <input name="ie" type="hidden" value="UTF-8" /> <input class="searchbox" name="q" type="text" placeholder="Movie phrase search..." required/> <input class="searchbut" name="sa" type="submit" value="Search" /></div>
+</form>
+</td></tr>
+<tr><td>
+<div style="color:white">
+<p>Popular searches: <a href="/animated-movies-sound-clips/despicable-me-2-2013/" style="color:white">despicable me 2 sound bites</a>, <a href="/cartoon-samples/despicable-me/" style="color:white">despicable me samples</a>, <a href="/cartoon-samples/ice-age-4-continental-drift/" style="color:white">ice age sound clips</a></p>
+</div>
+</td></tr>
+</tbody>
+</table></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box"></div>
+<div id="smartmenu">
+<form action="/search-results" id="cse-search-box">
+<div class="gsearch">
+<input name="cx" type="hidden" value="partner-pub-5453614192961613:9981018200" /> <input name="cof" type="hidden" value="FORID:10" /> <input name="ie" type="hidden" value="UTF-8" /> <input class="searchbox" name="q" type="text" placeholder="Movie phrase search..." required/> <input class="searchbut" name="sa" type="submit" value=" " />
+</div>
+</form>
+</div>
+<ul id="menu3">
+<li><b><span class="menucat">Movie Sound Clips Categories:</b></span></li>
+<li><a href="/action-movie-sound-clips">Action</a></li>
+<li><a href="/animated-movies-sound-clips">Animated</a></li>
+<li><a href="/cartoon-samples">Cartoons</a></li>
+<li><a href="/comedy-movie-sounds">Comedy</a></li>
+<li><a href="/disney-movie-sound-clips">Disney</a></li>
+<li><a href="/famous-movie-samples">Famous</a></li>
+<li><a href="/gangster-movie-sound-clips">Gangster</a></li>
+<li><a href="/ghetto-movie-sound-clips">Ghetto</a></li>
+<li><a href="/hanna-barbera-movie-sound-bites">Hanna-Barbera</a></li>
+<li><a href="/kung-fu-movie-samples">Kung Fu</a></li>
+<li><a href="/horror-movie-samples">Horror</a></li>
+<li><a href="/old-movie-samples">Old</a></li>
+<li><a href="/romance-movie-sound-bites">Romance</a></li>
+<li><a href="/old-movie-samples">Science Fiction</a></li>
+<li><a href="/superhero-movie-sound-clips">Superhero</a></li>
+<li><a href="/tv-series-sound-clips">TV Series</a></li>
+<li><a href="/war-movie-sound-clips">War</a></li>
+<li><a href="/westerns">Westerns</a></li>
+</ul>
+<div class="art-box art-sheet">
+<div class="art-box-body art-sheet-body">
+<div class="art-layout-wrapper">
+<div class="art-content-layout">
+<div class="art-content-layout-row">
+<div class="art-layout-cell art-sidebar1">
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                        <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <div class="componentheading">
+</div>
+
+<tr>
+<td valign="top" class="contentdescription" colspan="2">
+		</td>
+</tr>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" class="contentpane">
+
+</table>
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                <div class="art-bar art-blockheader">
+            <h3 class="t">
+        Movie Sounds</h3>
+        </div>
+                <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <ul class="menu"><li class="item49"><a href="/"><span>Latest Film Sound Bites (Audio clips &amp; Ringtones)</span></a></li><li class="item98"><a href="/action-movie-sound-clips/"><span>Action</span></a></li><li class="item104"><a href="/adventure-movie-sounds/"><span>Adventure</span></a></li><li class="item114"><a href="/animated-movies-sound-clips/"><span>Animated</span></a></li><li class="item112"><a href="/apocalyptic-film-sounds/"><span>Apocalyptic</span></a></li><li class="item107"><a href="/biographical-film-sound-clips/"><span>Biography</span></a></li><li class="item57"><a href="/cartoon-samples/"><span>Cartoons</span></a></li><li class="item125"><a href="/christmas-movies-sound-bites/"><span>Christmas</span></a></li><li class="item59"><a href="/comedy-movie-sounds/"><span>Comedy</span></a></li><li class="item111"><a href="/crime-film-sounds/"><span>Crime</span></a></li><li class="item128"><a href="/detective-movie-sound-clips/"><span>Detective</span></a></li><li id="current" class="active item106"><a href="/disney-movie-sound-clips/"><span>Disney</span></a></li><li class="item100"><a href="/drama-movie-sounds-and-quotes/"><span>Drama</span></a></li><li class="item113"><a href="/family-movie-sound-bites/"><span>Family</span></a></li><li class="item61"><a href="/famous-movie-samples/"><span>Famous</span></a></li><li class="item66"><a href="/fantasy-films-sound-bites/"><span>Fantasy</span></a></li><li class="item132"><a href="/foreign-movies-quotes/"><span>Foreign</span></a></li><li class="item127"><a href="http://zonesons.com/"><span>French language</span></a></li><li class="item64"><a href="/gangster-movie-sound-clips/"><span>Gangster</span></a></li><li class="item117"><a href="/ghetto-movie-sound-clips/"><span>Ghetto</span></a></li><li class="item129"><a href="/hanna-barbera-movie-sound-bites/"><span>Hanna-Barbera</span></a></li><li class="item56"><a href="/horror-movie-samples/"><span>Horror</span></a></li><li class="item60"><a href="/kung-fu-movie-samples/"><span>Kung Fu</span></a></li><li class="item119"><a href="/legal-films-sound-clips/"><span>Legal</span></a></li><li class="item122"><a href="/mistery-movie-sound-clips/"><span>Mystery</span></a></li><li class="item130"><a href="/musical-movie-sound-bites/"><span>Musical</span></a></li><li class="item55"><a href="/old-movie-samples/"><span>Old</span></a></li><li class="item123"><a href="/oscar-films-sound-bites/"><span>Oscar</span></a></li><li class="item118"><a href="/parody-movie-sound-clips/"><span>Parody</span></a></li><li class="item115"><a href="/police-movie-sound-clips/"><span>Police</span></a></li><li class="item116"><a href="/auto-racing-movie-sound-clips/"><span>Racing</span></a></li><li class="item65"><a href="/sci-fi-movie-samples/"><span>Science Fiction</span></a></li><li class="item109"><a href="/romance-movie-sound-bites/"><span>Romance</span></a></li><li class="item94"><a href="/sports-films-phrases/"><span>Sports</span></a></li><li class="item121"><a href="/spy-movie-sound-clips/"><span>Spy</span></a></li><li class="item131"><a href="http://audiofrases.com/"><span>Spanish language</span></a></li><li class="item133"><a href="/stand-up-comedy-sound-clips/"><span>Stand-up comedy</span></a></li><li class="item124"><a href="/superhero-movie-sound-clips/"><span>Superhero</span></a></li><li class="item110"><a href="/teen-films-sounds/"><span>Teen</span></a></li><li class="item126"><a href="/thanksgiving-films-sounds/"><span>Thanksgiving</span></a></li><li class="item96"><a href="/thriller-movie-sound-clips/"><span>Thriller</span></a></li><li class="item120"><a href="/tv-series-sound-clips/"><span>TV Series</span></a></li><li class="item63"><a href="/westerns/"><span>Westerns</span></a></li><li class="item102"><a href="/war-movie-sound-clips/"><span>War</span></a></li><li class="item53"><a href="/contact"><span>Contact</span></a></li></ul>
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+<div class="cleared"></div>
+</div>
+<div class="art-layout-cell art-content">
+<div class="item-page"><div class="art-box art-post">
+    <div class="art-box-body art-post-body">
+<div class="art-post-inner">
+<h1 class="art-postheader">Sound Clip Download</h1>
+<div class="art-postcontent">
+<div class="art-article"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-5453614192961613",
+    enable_page_level_ads: true
+  });
+</script><div style="text-align: center;max-width:468px;height:auto">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- msounds article responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5453614192961613"
+     data-ad-slot="6196769676"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><p><script type="text/javascript">
+/* simple protection for LAME downloaders, not for LEET ones, but hey*/
+var mainStr = document.URL;
+decodeme = mainStr.split('#')[1];
+decoded = (base64_decode(decodeme));
+document.write('<p>Download the sound clip by clicking the button bellow:</p><div class="dlbutton"><a href="' + decoded + '">Download sound file</a></div><br />');
+</script><noscript>You must enable JavaScript to download files.</noscript>	</p><div id="ac"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- msounds after article big respo -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5453614192961613"
+     data-ad-slot="5031610477"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+</div>
+<div class="cleared"></div>
+</div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+</div><div class="cleared"></div>
+</div>
+<div class="art-layout-cell art-sidebar2">
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                <div class="art-bar art-blockheader">
+            <h3 class="t">
+        Latest Movie Wav's Added</h3>
+        </div>
+                <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <div style="margin-bottom:20px"><a href="/detective-movie-sound-clips/sound-clips-from-48-hrs-1982/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1022.jpg"/></a>
+<a href="/detective-movie-sound-clips/sound-clips-from-48-hrs-1982/">
+48 HRS (1982)</a><br>
+ (1022 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/teen-films-sounds/sound-clips-from-juno-2007/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1021.jpg"/></a>
+<a href="/teen-films-sounds/sound-clips-from-juno-2007/">
+Juno (2007)</a><br>
+ (1190 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/famous-movie-samples/sound-clips-from-12-monkeys-1995/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1020.jpg"/></a>
+<a href="/famous-movie-samples/sound-clips-from-12-monkeys-1995/">
+12 Monkeys (1995)</a><br>
+ (1466 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-peaceful-warrior-2006/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1019.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-peaceful-warrior-2006/">
+Peaceful Warrior (2006)</a><br>
+ (826 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/war-movie-sound-clips/sound-clips-from-300-rise-of-an-empire-2014/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1018.jpg"/></a>
+<a href="/war-movie-sound-clips/sound-clips-from-300-rise-of-an-empire-2014/">
+300: Rise of an Empire (2014)</a><br>
+ (669 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-rudy-1993/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1017.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-rudy-1993/">
+Rudy (1993)</a><br>
+ (982 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-the-longest-yard-1974/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1016.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-the-longest-yard-1974/">
+The Longest Yard (1974)</a><br>
+ (1084 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-friday-night-lights-2004/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1015.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-friday-night-lights-2004/">
+Friday Night Lights (2004)</a><br>
+ (1363 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-the-last-boy-scout-1991/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1014.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-the-last-boy-scout-1991/">
+The Last Boy Scout (1991)</a><br>
+ (1037 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-remember-the-titans-2000/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1013.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-remember-the-titans-2000/">
+Remember the Titans (2000)</a><br>
+ (1264 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/sports-films-phrases/sound-clips-from-any-given-sunday-1999/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1012.jpg"/></a>
+<a href="/sports-films-phrases/sound-clips-from-any-given-sunday-1999/">
+Any Given Sunday (1999)</a><br>
+ (1674 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/famous-movie-samples/sound-clips-from-the-wolf-of-wall-street-2013/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1011.jpg"/></a>
+<a href="/famous-movie-samples/sound-clips-from-the-wolf-of-wall-street-2013/">
+The Wolf of Wall Street (2013)</a><br>
+ (2372 Sounds / Quotes)</div>		
+<div style="margin-bottom:20px"><a href="/drama-movie-sounds-and-quotes/sound-clips-from-glengarry-glen-ross-1992/"><img style="margin:0 5px 0 5px;float:left" src="/images/thumbs/1010.jpg"/></a>
+<a href="/drama-movie-sounds-and-quotes/sound-clips-from-glengarry-glen-ross-1992/">
+Glengarry Glen Ross (1992)</a><br>
+ (1210 Sounds / Quotes)</div>		
+
+
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        <div class="art-box art-block">
+            <div class="art-box-body art-block-body">
+        
+                <div class="art-bar art-blockheader">
+            <h3 class="t">
+        Poll</h3>
+        </div>
+                <div class="art-box art-blockcontent">
+            <div class="art-box-body art-blockcontent-body">
+        
+        <form action="/index.php" method="post" name="form2">
+<table width="95%" border="0" cellspacing="0" cellpadding="1" align="center" class="poll">
+<thead>
+<tr><td style="font-weight: bold;">
+You are using film sounds:</td></tr>
+</thead>
+<tr><td align="center">
+<table class="pollstableborder" cellspacing="0" cellpadding="5" border="0">
+<tr><td class="sectiontableentry2" valign="top">
+<input type="radio" name="voteid" id="voteid13" value="13" alt="13" />
+</td>
+<td class="sectiontableentry2" valign="top">
+<label for="voteid13">
+as ringtones</label>
+</td></tr>
+<tr><td class="sectiontableentry1" valign="top">
+<input type="radio" name="voteid" id="voteid14" value="14" alt="14" />
+</td>
+<td class="sectiontableentry1" valign="top">
+<label for="voteid14">
+for custom computer sounds</label>
+</td></tr>
+<tr><td class="sectiontableentry2" valign="top">
+<input type="radio" name="voteid" id="voteid15" value="15" alt="15" />
+</td>
+<td class="sectiontableentry2" valign="top">
+<label for="voteid15">
+in an answering machine</label>
+</td></tr>
+<tr><td class="sectiontableentry1" valign="top">
+<input type="radio" name="voteid" id="voteid16" value="16" alt="16" />
+</td>
+<td class="sectiontableentry1" valign="top">
+<label for="voteid16">
+in music mixes</label>
+</td></tr>
+<tr><td class="sectiontableentry2" valign="top">
+<input type="radio" name="voteid" id="voteid17" value="17" alt="17" />
+</td>
+<td class="sectiontableentry2" valign="top">
+<label for="voteid17">
+for sharing them with friends</label>
+</td></tr>
+<tr><td class="sectiontableentry1" valign="top">
+<input type="radio" name="voteid" id="voteid18" value="18" alt="18" />
+</td>
+<td class="sectiontableentry1" valign="top">
+<label for="voteid18">
+to see if I should buy a movie</label>
+</td></tr>
+</table>
+</td></tr>
+<tr><td>
+<div align="center">
+<span class="art-button-wrapper"><span class="art-button-l"> </span><span class="art-button-r"> </span><input type="submit" name="task_button" class="button art-button" value="Vote" /></span>
+&nbsp;
+<span class="art-button-wrapper"><span class="art-button-l"> </span><span class="art-button-r"> </span><input type="button" name="option" class="button art-button" value="Results" onclick="document.location.href='/index.php?option=com_poll&id=2:you-are-using-film-sounds'" /></span>
+</div>
+</td></tr>
+</table>
+<input type="hidden" name="option" value="com_poll" />
+<input type="hidden" name="task" value="vote" />
+<input type="hidden" name="id" value="2" />
+<input type="hidden" name="e65a5362b8af81d72a935f192ef5641e" value="1" /></form>
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+        
+        		<div class="cleared"></div>
+            </div>
+        </div>
+        
+<div class="cleared"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="cleared"></div>
+<div class="art-footer">
+<div class="art-footer-body">
+<div class="art-footer-text">
+<div class="art-nostyle">
+<p>(2016) MOVIE-SOUNDS.ORG - Download and listen to lines and quotes from movies which can be used as ringtones. A movie phrases and sayings search engine.</p>
+<p>&nbsp;</p>
+<p>All the movie sound clips on this site are just short samples from the original sources, in mp3, wav or other popular audio formats. The copyrighted, unlicensed movie samples are shorter in comparison to the original movie. Samples do not exceed 10 seconds or less than 1% of the length of the original movie, which is shorter. All the sounds retain their original copyright as owned by their respective movie production companies <a href="/disclaimer" rel="nofollow">(read the full disclaimer)</a></p>
+<p><a href="/privacy-policy" rel="nofollow">Privacy policy</a></p></div>
+</div>
+<div class="cleared"></div>
+</div>
+</div>
+<div class="cleared"></div>
+</div>
+</div>
+<div class="cleared"></div>
+<p class="art-page-footer"></p>
+<div class="cleared"></div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21699492-4', 'auto');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+</body>
+</html>

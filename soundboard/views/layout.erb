@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <title>The Captain's Soundboard</title>
+
+    <link type="text/css" rel="stylesheet" href="/stylesheets/soundboard.css"/>
+  </head>
+  <body>
+    <% if session[:user] %>
+    <div class="menu">
+        <a href="/">Home</a>
+    </div>
+    <div class="menu">
+        <a href="sign_out">Sign Out</a>
+    </div>
+    <div class="flash">
+      <% if session[:message] %>
+        <p><%= session.delete(:message) %></p>
+      <% end %>
+    </div>
+    <% if session[:user] == "Robert" %>
+      <p class="status">Signed in as <%= session[:user] %>.  Welcome, Captain!</p>
+    <% else %>
+      <p class="status">Signed in as <%= session[:user] %></p>
+    <% end %>
+    <% end %>
+    <% if session[:user] %>
+      <br><br><br>
+    <% end %>
+    <%= yield %>
+  </body>
+</html>

@@ -1,0 +1,104 @@
+/*soundboard.css*/
+
+.welcome {
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-right: 720px;
+  padding: 10px 10px;
+  background-color: white;
+  color: orange;
+  float: none;
+}
+
+* {
+  font-family: sans-serif;
+  background-color: grey;
+}
+
+li {
+  margin-left: 0px;
+  float: left;
+  list-style: none;
+}
+
+li button {
+  margin-right: 10px;
+  margin-top: 10px;
+  color: orange;
+}
+
+li button:hover {
+  background-color: orange;
+  color: white;
+}
+
+.menu a {
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: orange;
+  color: white;
+  padding: 10px 10px;
+  margin-right: 10px;
+  text-align: center;
+  float: left;
+}
+
+button {
+  border-radius: 10px;
+  border: 0;
+  padding: 10px 10px;
+  background-color: white;
+}
+
+input {
+  border: 0;
+  margin-top: 10px;
+  background-color: white;
+}
+
+.signin label {
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: orange;
+  color: white;
+  padding: 10px 10px;
+  margin-right: 10px;
+  text-align: center;
+  float: left;
+}
+
+.flash p {
+  margin-top: 0;
+  border-radius: 10px;
+  padding: 10px 10px;
+  float: left;
+  background-color: white;
+  color: orange;
+}
+
+.menu a:hover {
+  background-color: white;
+  color: teal;
+}
+
+p.status {
+  margin-top:0px;
+  border-radius: 10px;
+  background-color: orange;
+  padding: 10px 10px;
+  color: white;
+  float: right;
+}
+
+.link img {
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.link img:hover {
+  box-shadow: 3px 3px 1px black;
+}
